@@ -56,6 +56,18 @@ Please download the latest codes from the [WING CodeShare] page.
 
 eSIM-Applet is Apache 2.0 licensed, as found in the LICENSE file. 
 
+## Citation
+If you find this repo useful, please cite our paper.
+```
+@inproceedings{zhao2021securesim,
+  title={SecureSIM: rethinking authentication and access control for SIM/eSIM},
+  author={Zhao, Jinghao and Ding, Boyan and Guo, Yunqi and Tan, Zhaowei and Lu, Songwu},
+  booktitle={Proceedings of the 27th Annual International Conference on Mobile Computing and Networking},
+  pages={451--464},
+  year={2021}
+}
+```
+
 [GlobalPlatformPro]: https://github.com/martinpaljak/GlobalPlatformPro
 [Flora]: https://github.com/Project-Flora/Flora
 [WING CodeShare]: http://metro.cs.ucla.edu/codeshare.html
